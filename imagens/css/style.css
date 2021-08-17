@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    header{
+        display:flex;
+        width:100vw;
+        justify-content:space-around;
+
+    }
+
+    header #logo{
+        width:20vw;
+    }
+
+    header #logo img{
+        width: 100%;
+    }
+header #icon-menu{
+    width:20vw;
+}
+header #icon-menu img{
+    width:20vw;
+}
+
+header #descricao{
+    width:50%;
+}
+
+header #ident h1{
+    font-size: 16px;
+text-align: center;
+}
+
+
